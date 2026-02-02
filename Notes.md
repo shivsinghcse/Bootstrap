@@ -57,4 +57,18 @@ text-align:
     text-end
     text justified**
 
-     
+     width:
+    w-25
+    w-50
+    w-75
+    w-100
+    w-auto    
+
+height:
+    h-25
+    h-50
+    h-75
+    h-100
+    h-auto  
+
+    give height to parent element using inline style
