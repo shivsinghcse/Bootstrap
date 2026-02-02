@@ -72,3 +72,29 @@ height:
     h-auto  
 
     give height to parent element using inline style
+
+button:
+    btn
+    btn-primary
+    btn-secondary
+    btn-danger
+    btn-warning
+    btn-info
+    btn-dark
+    btn-light
+    btn-success
+    btn-link
+
+    btn-lg - large
+    btn-md - medium
+    btn-sm - small
+    
+    btn-outline-primary
+    btn-outline-secondary
+    btn-outline-danger
+    btn-outline-warning
+    btn-outline-info
+    btn-outline-dark
+    btn-outline-light
+    btn-outline-success
+    btn-outline-link
