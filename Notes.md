@@ -88,7 +88,7 @@ button:
     btn-lg - large
     btn-md - medium
     btn-sm - small
-    
+
     btn-outline-primary
     btn-outline-secondary
     btn-outline-danger
@@ -98,3 +98,35 @@ button:
     btn-outline-light
     btn-outline-success
     btn-outline-link
+
+padding:
+    p-0
+    p-1
+    p-2
+    p-3
+    p-4
+    p-5
+    p-auto    
+
+    py - vertical
+    px - horizonal
+    pt - top
+    pb - bottom
+    ps - left/start
+    pe - right/end
+
+margin:
+    m-0
+    m-1
+    m-2
+    m-3
+    m-4
+    m-5
+    m-auto  
+
+    my - vertical
+    mx - horizonal
+    mt - top
+    mb - bottom
+    ms - left/start
+    me - right/end
