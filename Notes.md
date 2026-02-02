@@ -48,8 +48,13 @@ column-width:
     col-11 => 91.66%
     col-12 => 100%
 
+    col-md-4 for desktop
+    total col width in a row should be : 12
+
 text-align:
     text-center
     text-left
     text-end
     text justified**
+
+     
